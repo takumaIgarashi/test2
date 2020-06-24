@@ -1,0 +1,9 @@
+/* table {
+    border:1px solid black;
+    stely:border-collapse: collapse; 
+} */
+
+tr > td ,th{
+    padding: 10px;
+    text-align: center;
+}
